@@ -1,0 +1,25 @@
+Metodologia Científica
+======================
+Miguel Aroztegui
+:doctype: book
+:lang: pt-BR
+:keywords:    Computação
+:description: Livro sobre Metodologia Científica
+:ascii-ids:
+
+
+//include::capitulos/prefacio.asc[]
+
+////
+Nome da Parte
+=============
+////
+
+include::capitulos/Cap_1_Introducao.asc[]
+include::capitulos/Cap_2_ModelosMetodologicos.asc[]
+include::capitulos/Cap_3_AtividadeCientifica.asc[]
+include::capitulos/Cap_5_Bibliografia.asc[]
+
+
+// Sempre termine os arquivos com uma linha em branco.
+
