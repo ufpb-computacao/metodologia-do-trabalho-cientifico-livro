@@ -61,8 +61,13 @@ alguns problemas que eram importantes na época.
 Em particular a teoria elaborada por Ptolomeu não calculava o equinócio
 com a precisão necessária.
 
-NOTE: O equinócio é o instante em que o dia e a noite tem a mesma duração.
-Isso acontece duas vezes ao ano.
+NOTE: Para o leigo, os equinócios indicam as mudanças das estações.
+No hemisfério sul, o primeiro equinócio determina o fim do verão e o começo do
+outono, o segundo equinócio indica o fim do inverno e começo da primavera.
+para o astrônomo, em dois instantes do ano os raios do sol farão um ângulo de 90
+graus com o solo em alguma posição da linha equatorial.
+É nesse instante que o sol estará na posição do equinócio.
+Pois bem, este instante era mal calculado pelo aparato científico de Ptolomeu.
 
 Consequentemente, a construção de um calendário era ainda um problema não
 resolvido.
@@ -369,7 +374,7 @@ Os problemas que se resolvem na ciência normal tem solução conhecida e fornec
 pelo paradigma.
 Kuhn chama a estes problemas de ''quebra-cabeças''.
 
-Um ''quebra-cabeças'' é um problema::
+Um ''quebra-cabeça'' é um problema::
 * fornecido pelo paradigma,
 * que possui uma solução conhecida e segura,
 * cujo resultado não é relevante, não é importante, não produz novidade
@@ -390,9 +395,9 @@ Se o instrumento construído não indica os números apontados pelo paradigma ou
 não é produto da teoria do paradigma, então o quebra-cabeça ainda não esta
 resolvido.
 
-O pesquisador deve resolver um quebra-cabeças para provar que é possível obter o
+O pesquisador deve resolver um quebra-cabeça para provar que é possível obter o
 resultado apresentado pelo paradigma.
-O que procura um pesquisador ao resolver o quebra-cabeças é alcançar a solução
+O que procura um pesquisador ao resolver o quebra-cabeça é alcançar a solução
 de forma engenhosa.
 Para a comunidade científica, o pesquisador é bem-sucedido se ele consegue obter
 os resultado que a teoria do paradigma indica.
@@ -419,7 +424,7 @@ profundidade e detalhamento sem precedentes.
 ==== Anomalia, crise e revolução científica
 
 Contudo, é o próprio paradigma que compromete a si mesmo: pode acontecer que,
-articulando o paradigma, determinado problema ''quebra-cabeça'' se resiste em
+articulando o paradigma, determinado problema quebra-cabeça se resiste em
 ser resolvido.
 Determinado procedimento aceito pelo paradigma pode levar o pesquisador a uma
 paradoxo (um contra-senso ou uma contradição) que não pode ser eliminado.
