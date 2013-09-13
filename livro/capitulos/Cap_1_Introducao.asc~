@@ -212,9 +212,9 @@ Veremos agora em mais detalhe o que nos diz a história da ciência.
 
 === A natureza do progresso das ciências.
 
-Estas notas estão fortemente baseadas nas ideias do físico Tomas Kuhn 
+Nesta seção apresentarei uma interpretação das ideias do físico Tomas Kuhn
 (<<KUHN>>).
-Por sua vez, Kuhn é baseado na nova historiografia da ciência de Alexandre Koyré
+Por sua vez, Kuhn baseia-se na nova historiografia da ciência de Alexandre Koyré
 (<<KOYRE>>).
 
 Koyré busca apresentar a integridade histórica da ciência, a partir da própria
@@ -326,9 +326,6 @@ Segundo Kuhn, este paradigma de Newton constitui um marco histórico para a
 A atividade do pesquisador que trabalha com este paradigma se chamará
 *pesquisa normal* e ele estará construindo o que Kuhn denomina *ciência normal*.
 
-*O paradigma constitui um seta que indica para onde o cientista deve orientar
-sua pesquisa.*
-
 ==== Ciência Normal
 
 A ciência normal é o conhecimento resultante do convencimento de uma comunidade
@@ -405,10 +402,7 @@ os resultado que a teoria do paradigma indica.
 um quebra-cabeça que ninguém até então resolveu ou, pelo menos, não resolveu tão
 bem.'' (<<KUHN>>, p.61)
 
-Para resumir, ''A ciência normal, atividade que consiste em solucionar
-quebra-cabeças, é um empreendimento altamente cumulativo, extremadamente
-bem-sucedido no que toca ao seu objetivo, a ampliação contínua do alcance e da
-precisão do conhecimento científico.''
+Evolução do conhecimento no período paradigmático::
 Podemos ver a evolução do conhecimento como uma curva contínua no espaço
 (alcance x precisão) que se inicia com o estabelecimento do paradigma e se
 dirige para uma região de maior alcance e precisão.
@@ -432,25 +426,42 @@ Muitos colocarão a culpa nos pesquisadores pois talvez não foram suficientemen
 engenhosos para resolver o problema.
 Eles não conseguem fazer o que é de mais sagrado na pesquisa normal:
 atualizar a promessa do sucesso do paradigma.
-Veremos que não é cupa dos pesquisadores mas sim do paradigma.
+Veremos que esta incapacidade não é do pesquisador mas sim do paradigma.
 
 ==== Anomalia e descoberta
 
-Uma anomalia é um fato que não pode ser previsto pelo paradigma.
-Enquanto este fato não for previsto pelo paradigma, ele não é considerado 
-científico.
+Uma *anomalia* é um fato que não pode ser previsto e explicado pelo paradigma.
+De outra forma, o paradigma não prepara o pesquisador para ver algo que acontece
+em sua atividade experimental.
+Pensemos que o paradigma nos assegura que o resultado para certo experimento é
+uma tela branca, contudo, observamos manchas escuras.
+Por que obtemos estas manchas escuras?
+As machas escuras no fundo branco é um fato anômalo.
 O pesquisador poderá pensar que o fato observado é um erro do instrumento ou do
-experimento mas nunca do paradigma.
+experimento, mas nunca um erro do paradigma.
+Neste sentido, enquanto este fato não for previsto pelo paradigma, ele não é
+considerado científico, ele é considerado anômalo.
 
-A descoberta é o reconhecimento, por parte da comunidade científica, de que não
-tem mais jeito:
-''... a natureza violou as expectativas paradigmáticas que governa a ciência
-normal.'' (<<KUHN>>, p. 78).
+A *descoberta* se inicia com o reconhecimento, por parte da comunidade
+científica, de que a anomalia existe e não tem mais jeito:
+''... a natureza violou as expectativas paradigmáticas ...'' (<<KUHN>>, p. 78).
 O pesquisador perde as esperanças de que ele possa entender o fato pela 
 articulação do paradigma.
+Frente a uma descoberta, o que o pesquisador pode fazer?
+Tentar fazer uma modificação, um ajustamento (um ''remendo'') no paradigma.
+A descoberta termina quando o anômalo se torna esperado pelo paradigma, mas isto
+somente pode acontecer com grandes transformações no paradigma.
+Estas transformações podem levar o pesquisador a abandonar completamente o
+paradigma vigente.
+
+Kuhn apresenta exemplos de anomalias que se tornaram descobertas:
+
+. descoberta do oxigênio (<<KUHN>>, p.78)
+. descoberta do raio X (<<KUHN>>, p.83)
+. descoberta da garrafa de Leyden (<<KUHN>>, p.87)
 
 Kuhn explica porque, apesar da ciência normal ser uma atividade de censura para
-as novidades, pode, contudo, produzir anomalias (e descobertas):
+as novidades, pode, contudo, produzir anomalias e descobertas:
 A tendência da pesquisa normal é produzir conhecimento que aumente seu alcance
 e precisão.
 O trabalho do pesquisador se torna altamente especializado: constrói 
@@ -462,7 +473,13 @@ E são estes instrumentos e níveis de precisão que fazem acontecer as anomalia
 É graças a estes instrumentos especializados que determinados pesquisadores
 conseguem distinguir que algo realmente saiu errado.
 
-==== Crise e invensões
+Então a ciência normal também realiza modificações no paradigma de modo que
+fatos anômalos se tornem fatos predizíveis pelo mesmo.
+Será que as anomalias leva o pesquisador a desconfiar do paradigma?
+Veremos que sim, 
+
+
+==== Crise e novas teorias
 
 Problemas não resolvidos e contradições são acontecimentos que levam os
 pesquisadores a procurar alternativas por fora do paradigma.
@@ -481,10 +498,12 @@ atual e o surgimento de outro paradigma superador.
 .Um exemplo da evolução da ciência.
 
 A partir de um paradigma, a pesquisa se torna ex
-Existe uma diferença marcante nos padrões Antes da existência de um paradigma, a ciência é feita de forma diferenteelaborada de forma 
+Existe uma diferença marcante nos padrões Antes da existência de um paradigma, a
+ciência é feita de forma diferenteelaborada de forma 
 A forma de fazer ciências depois de um paradigma é diferente ao período
 pré-paradigmático
-epara a história de uma ciêncianos diz que que antes da existência de um paradigma, a construção da
+epara a história de uma ciêncianos diz que que antes da existência de um 
+paradigma, a construção da
 ciência é diferente.
 
 
