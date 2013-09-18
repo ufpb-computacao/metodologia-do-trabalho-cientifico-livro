@@ -568,7 +568,7 @@ pesquisador acaba atualizando a promessa de sucesso de um paradigma.
 
 ((RESUMIR REVOLUÇÃO CIENTÍFICA))
 
-Sinteticamente, ciência se desenvolve nas seguintes etapas:
+Em síntese, ciência se desenvolve nas seguintes etapas:
 
 . Período 'pré-paradigmático': neste período existem várias escolas em competição
 onde surgirá uma realização científica sem precedentes (paradigma).
@@ -583,11 +583,38 @@ aceitas pela comunidade científica.
 . Período 'revolucionário': Neste momento existe um paradigma candidato a
 superar o paradigma tradicional. Acontece a substituição de paradigmas.
 
-O seguinte gráfico sintetiza este progresso científico:
-image::images/periodos_historicos_ciencia.jpg[scaledwidth="80%"]
-((COMENTAR A IMAGEM))
+O seguinte gráfico ilustra um caso hipotético de como iteragem estas etapas:
 
-.Um exemplo: óptica física.
+image::images/periodos_historicos_ciencia.jpg[scaledwidth="80%"]
+
+Neste gráfico, a linha horizontal superior representa a linha do tempo.
+Inicialmente, temos várias escolas (A, B, C e D) com formas de pensar
+comunitariamente incompatíveis.
+Na linha vertical tracejada separa-se o período pré-paradigmático da era
+paradigmática.
+Isto é, determinada escola constrói uma obra exemplar (Paradigma 1) que resolve, 
+convincentemente, problemas considerados sérios para aquela época.
+A partir desse momento o paradigma atrai adeptos para sua prática (setas
+tracejadas das escolas A, B e D para o paradigma 1) e se desenvolve o trabalho
+da ciência normal (a linha se torna cada vez mais grossa pois aumenta o número
+de aplicações bem sucedidas da pesquisa normal).
+Contudo, existem 'quebra-cabeças' que ser resistem em apresentar uma solução
+pela articulação do paradigma.
+Estes problemas poderão ser anomalias (que provavelmente se tornaram
+descobertas) que não poderão ser assimiladas pela teoria paradigmática.
+Para dar resposta a estas questões inicia-se o período extraordinário (linha
+vermelha grossa e tracejada, observe que não há um aumento no número de
+problemas resolvidos).
+É na crise que poderão emergir (ou ressurgir) paradigmas superadores (no 
+desenho, o paradigma 2 surge com o desenvolvimento do paradigma 1, contudo não
+foi aceito naquela época) que poderá atrair praticantes para esta nova forma de 
+ver o mundo (setas tracejadas da crise do paradigma 1 para o paradigma 2).
+O processo revolucionário é indicado no gráfico com a coexistência de dos
+paradigmas em determinada época (paradigma 1 e 2).
+De igual forma, o paradigma 2 terá uma evolução similar como a do paradigma 1:
+entrará em crise e um terceiro paradigma poderá competir com ele.
+
+.Um exemplo concreto: óptica física.
 
 Segundo Kuhn a história da óptica física ilustra um padrão de evolução para as
 ciências amadurecidas (<<KUHN>>, p.31).
