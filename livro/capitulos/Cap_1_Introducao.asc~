@@ -53,6 +53,8 @@ um eclipse solar.
 E de certa forma o que se quer construir é um mecanismo que indique o
 funcionamento do movimento dos astros.
 
+((Ptolomeu))
+((Almagesto))
 O ''Almagesto'' de Ptolomeu (90-168) foi um tratado de astronomia que deu
 resposta a esta e outras questões da astronomia na Antiguidade e na Idade Média.
 Contudo, esta obra científica (e suas modificações) não conseguia resolver
@@ -60,6 +62,7 @@ alguns problemas que eram importantes na época.
 Em particular a teoria elaborada por Ptolomeu não calculava o equinócio
 com a precisão necessária.
 
+((Equinócio))
 NOTE: Para o leigo: os equinócios indicam as mudanças de estações.
 No hemisfério sul, o primeiro equinócio determina o fim do verão e o começo do
 outono, o segundo equinócio indica o fim do inverno e começo da primavera.
@@ -101,6 +104,7 @@ o que estamos vivendo.
 Sempre poderemos modificar ou substituir o conhecimento científico a fim de que
 a humanidade possa ter algum proveito.
 
+((Galileu))
 Contudo, a história do pensamento científico mostra que o pesquisador que deseja
 efetivamente fazer ciência luta contra a tradição, contra a cultura e contra os
 pensamentos dominantes de sua época.
@@ -135,6 +139,8 @@ Por outro lado, se pensarmos que a solução obtida por determinado objeto permi
 identificar melhor o problema, então o método é influenciado pelo problema.
 Assim, um método é inseparável do problema e sua solução (objeto construído).
 
+((Modelo empirista))
+((Modelo sistêmico))
 Neste livro veremos duas grandes linhas que orientam os pesquisadores na
 construção de métodos e objetos científicos:
 o modelo empirista (<<Empirismo>>) e o modelo sistêmico (<<Sistemismo>>).
@@ -159,6 +165,8 @@ terra usando a geometria e a matemática.
 Mas esta elaboração foi uma construção dele, em sua época, para o estudo da
 dinâmica no mundo físico.
 
+((Galileu))
+((Taylor))
 Com Galileu Galilei, o problema, o método e o objeto construído aconteceram
 juntos (veja em <<Galileu>>).
 Galileu é a prova que devemos sempre procurar e construir métodos adequados.
@@ -616,8 +624,7 @@ entrará em crise e um terceiro paradigma poderá competir com ele.
 
 .Um exemplo concreto: óptica física.
 
-Segundo Kuhn a história da óptica física ilustra um padrão de evolução para as
-ciências amadurecidas (<<KUHN>>, p.31).
+A história da óptica física mostra o padrão acima (ver <<KUHN>>, p.31).
 
 image::images/historia_optica.jpg[scaledwidth="80%"]
 ((COMENTAR A IMAGEM))
