@@ -232,8 +232,38 @@ Segundo Kuhn, o elemento arbitrário que conecta os cientistas é um *paradigma*
 Como veremos, Kuhn define uma ciência plenamente desenvolvida àquela que tem
 ou teve um paradigma.
 
-==== Paradigma
+Kuhn mostra que o padrão da atividade científica antes do estabelecimento de um
+paradigma é radicalmente diferente ao padrão de atividade depois da existência
+de um paradigma.
+Antes do primeiro paradigma, os cientistas não são obrigados a assumir um corpo
+qualquer de crenças.
+Os cientistas constroem seu campo de conhecimento a partir dos fundamentos.
+Isto é, os pesquisadores começam do zero: definem os princípios, as bases do
+objeto de estudo.
+Para isso o pesquisador tem a liberdade para escolher o que resolver, observar e
+experimentar.
+Não existem problemas impostos.
+Ele escolhe os problemas, os fenômenos e os métodos que achar melhor.
+Antes do paradigma existem diferentes escolas que diferem em suas construções e 
+estão em competição entre si.
+Cada escola em competição defende seu ponto de vista.
 
+Kuhn cita vários exemplos de como é a atividade científica antes de um
+paradigma.
+No caso da óptica física, ''Cada uma delas (as escolas) enfatizava, como
+observações paradigmáticas, o conjunto particular de fenômenos ópticos que sua
+própria teoria podia explicar melhor. Em épocas diferentes, todas estas escolas
+fizeram contribuições significativas ao corpo de conceitos, fenômenos e técnicas
+dos quais Newton extraiu o primeiro paradigma quase uniformemente aceito na
+óptica física.'' (<<KUHN>>, p. 32).
+Segundo Kuhn, este paradigma de Newton constitui um marco histórico para a
+óptica física.
+A atividade do pesquisador que trabalha com este paradigma se chamará
+*pesquisa normal* e ele estará construindo o que Kuhn denomina *ciência normal*.
+
+==== Paradigma e ciência normal
+
+Paradigma::
 Um paradigma é uma realização científica que tem duas características
 fundamentais:
 
@@ -291,37 +321,7 @@ Contudo, o paradigma não determina regras ou métodos mas sim orienta a pesquis
 para que ela não provoque novidades ou desacordos com a visão de mundo
 estabelecida.
 
-Kuhn mostra que o padrão da atividade científica antes do estabelecimento de um
-paradigma é radicalmente diferente ao padrão de atividade depois da existência
-de um paradigma.
-Antes do primeiro paradigma, os cientistas não são obrigados a assumir um corpo
-qualquer de crenças.
-Os cientistas constroem seu campo de conhecimento a partir dos fundamentos.
-Isto é, os pesquisadores começam do zero: definem os princípios, as bases do
-objeto de estudo.
-Para isso o pesquisador tem a liberdade para escolher o que resolver, observar e
-experimentar.
-Não existem problemas impostos.
-Ele escolhe os problemas, os fenômenos e os métodos que achar melhor.
-Antes do paradigma existem diferentes escolas que diferem em suas construções e 
-estão em competição entre si.
-Cada escola em competição defende seu ponto de vista.
-
-Kuhn cita vários exemplos de como é a atividade científica antes de um
-paradigma.
-No caso da óptica física, ''Cada uma delas (as escolas) enfatizava, como
-observações paradigmáticas, o conjunto particular de fenômenos ópticos que sua
-própria teoria podia explicar melhor. Em épocas diferentes, todas estas escolas
-fizeram contribuições significativas ao corpo de conceitos, fenômenos e técnicas
-dos quais Newton extraiu o primeiro paradigma quase uniformemente aceito na
-óptica física.'' (<<KUHN>>, p. 32).
-Segundo Kuhn, este paradigma de Newton constitui um marco histórico para a
-óptica física.
-A atividade do pesquisador que trabalha com este paradigma se chamará
-*pesquisa normal* e ele estará construindo o que Kuhn denomina *ciência normal*.
-
-==== Ciência Normal
-
+Ciência Normal::
 A ciência normal é o conhecimento resultante do convencimento de uma comunidade
 científica que defende um paradigma.
 É na ciência normal onde a comunidade científica deve defender a visão de mundo 
@@ -516,12 +516,25 @@ colocam em evidência esta crise.
 
 ==== A revolução científica
 
-.Um exemplo da evolução da ciência.
+Uma das consequências da crise e das pesquisas extraordinárias é uma crescente
+ideia, por parte de um setor da comunidade científica, de que o paradigma
+deixou de funcionar adequadamente.
+A crise resultante da incapacidade do paradigma vigente para resolver problemas
+importantes (como por exemplo a descoberta dos raios X), leva aos pesquisadores
+elaborar outras formas de trabalho incompatíveis com o trabalho comunitário
+vigente.
 
-Segundo Kuhn a história da óptica física ilustra um padrão de evolução para as
-ciências amadurecidas (<<KUHN>>, p.31).
+A revolução científica acontece quando existe o debate entre dois grupos.
+Um grupo partidário de um novo paradigma (candidato a superar o paradigma 
+vigente) e outro grupo partidário do paradigma vigente.
+Temos então, um grupo de pesquisadores revolucionários e um grupo de
+pesquisadores que defendem o paradigma tradicional.
+Cada grupo defende um paradigma empregando argumentos do próprio paradigma.
+Quais sãos seus argumentos?
+Veremos que eles não são puramente argumentos lógicos ou empíricos.
 
-image::images/historia_optica.jpg[scaledwidth="80%"]
+
+
 
 === Recapitulando
 
@@ -531,7 +544,8 @@ A construção deste conhecimento é influenciada pelo o senso comum: aquilo que
 aceito por todos.
 Contudo, para construir um conhecimento novo que resolva apropriadamente um
 problema, o pesquisador deve tentar romper com o senso comum.
-Ou seja, ver coisas que a grande maioria não vê ou não quer ver.
+Uma forma de fazer isto é ver coisas que a grande maioria não vê, ou não quer
+ver.
 
 O importante da pesquisa científica é a construção de um objeto novo.
 Este objeto construído tem o escopo de dominar (explicar, modificar, abordar,
@@ -553,6 +567,34 @@ Quando um problema é resolvido a partir da articulação do paradigma, o
 pesquisador acaba atualizando a promessa de sucesso de um paradigma.
 
 ((RESUMIR REVOLUÇÃO CIENTÍFICA))
+
+Sinteticamente, ciência se desenvolve nas seguintes etapas:
+
+. Período 'pré-paradigmático': neste período existem várias escolas em competição
+onde surgirá uma realização científica sem precedentes (paradigma).
+. Período 'paradigmático': nesta etapa se reafirma o sucesso do paradigma e é
+aqui onde se desenvolve a ciência e pesquisa normal.
+. Período 'extraordinário': neste período acontecem anomalias e descobertas devido
+ao alto grau de especialização da ciência normal. Devido a incapacidade do
+paradigma para lidar com as anomalias, a ciência normal entra em crise.
+Surgem as pesquisas extraordinárias que tentam fazer adaptações do paradigma 
+para resolver estes problemas, contudo estas adaptações não são geralmente
+aceitas pela comunidade científica.
+. Período 'revolucionário': Neste momento existe um paradigma candidato a
+superar o paradigma tradicional. Acontece a substituição de paradigmas.
+
+O seguinte gráfico sintetiza este progresso científico:
+image::images/periodos_historicos_ciencia.jpg[scaledwidth="80%"]
+((COMENTAR A IMAGEM))
+
+.Um exemplo: óptica física.
+
+Segundo Kuhn a história da óptica física ilustra um padrão de evolução para as
+ciências amadurecidas (<<KUHN>>, p.31).
+
+image::images/historia_optica.jpg[scaledwidth="80%"]
+((COMENTAR A IMAGEM))
+
 
 É na formulação dos problemas e na resolução dos mesmos que surgem os paradigmas.
 É a partir dos paradigmas que surgem os métodos científicos.
