@@ -605,7 +605,7 @@ deduzir que a teoria de Newton produz resultados corretos para velocidades
 próximas à velocidade da luz, contudo estes resultados são totalmente diferentes
 aos da teoria da relatividade.
 
-Outros exemplos são relatados no livro de Kuhn (<<Kuhn>>).
+Outros exemplos são relatados no livro de Kuhn (<<KUHN>>).
 
 === Recapitulando
 
@@ -701,8 +701,10 @@ evolução histórica das ciências plenamente desenvolvidas.
 [[historia_optica]]
 .Período históricos da óptica física.
 image::images/historia_optica.jpg[scaledwidth="80%"]
-(((COMENTAR A IMAGEM)))
 
+A figura <<historia_optica>> sintetiza a história da óptica física.
+Esta área de conhecimento passou por três paradigmas e duas revoluções
+científicas.
 
 É na formulação dos problemas e na resolução dos mesmos que surgem os paradigmas.
 É a partir dos paradigmas que surgem os métodos científicos.
