@@ -14,4 +14,6 @@ livro/livro.tex
 livro.aux
 livro.log
 
-/livro/capitulos/Cap_2_ModelosMetodologicos.asc~
+releases/*
+
+*.asc~
